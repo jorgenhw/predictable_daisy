@@ -1,0 +1,21 @@
+Word,Value
+"DANMARK nævnes over 8,5 gange",1.75
+"DANMARK nævnes under 8,5 gange",1.95
+"DANSKE nævnes over 5,5 gange",1.75
+"DANSKE nævnes under 5,5 gange",1.95
+"TAK nævnes over 4,5 gange",1.95
+"TAK nævnes under 4,5 gange",1.75
+"VERDEN nævnes over 3,5 gange",1.6
+"VERDEN nævnes under 3,5 gange",2.2
+"NYTÅR nævnes over 2,5 gange",1.8
+"NYTÅR nævnes under 2,5 gange",1.9
+"GRØNLAND nævnes over 2,5 gange",2.3
+"GRØNLAND nævnes under 2,5 gange",1.55
+"FÆRØERNE nævnes over 2,5 gange",2.7
+"FÆRØERNE nævnes under 2,5 gange",1.4
+"SAMFUND nævnes over 1,5 gange",1.55
+"SAMFUND nævnes under 1,5 gange",2.3
+"PRINS CHRISTIAN nævnes over 1,5 gange",1.85
+"PRINS CHRISTIAN nævnes under 1,5 gange",1.85
+"NYTÅRSØNSKER nævnes over 1,5 gange",1.85
+"NYTÅRSØNSKER nævnes under 1,5 gange",1.85
